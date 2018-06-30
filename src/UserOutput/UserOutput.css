@@ -1,0 +1,8 @@
+.UserOutput {
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 2px #ccc;
+  margin: 16px;
+  padding: 16px;
+  background: #f0f9ff;
+  background: linear-gradient(to bottom, #f0f9ff 0%,#cbebff);
+}
